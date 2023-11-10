@@ -1,7 +1,7 @@
 ## Olá eu sou a Wendi Bianca, estou em transição de carreira!
 
 - 👩🏻‍🎓 Pós Graduada em Supply Chain e Logística Integrada pela Universidade Cruzeiro do Sul, Bacharela em Ciência e Tecnologia e Bacharela em Engenheira Ambiental pela Universidade Federal de Alfenas
-- 🌱 Estudando Javascript | Node.js | ReactJS 
+- 🌱 Estudante de Análise e Desenvolvimento de Sistemas
 - 😄 Pronouns: Ela, dela
 
 
